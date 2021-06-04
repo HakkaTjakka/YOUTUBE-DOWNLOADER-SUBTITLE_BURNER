@@ -1,0 +1,5 @@
+@echo off
+
+echo STARTED > ADVANCE_STARTED.TXT
+call BURN_SUBTITLES.BAT
+pause

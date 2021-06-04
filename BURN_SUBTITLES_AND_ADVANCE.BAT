@@ -1,0 +1,5 @@
+@echo off
+
+if exist ADVANCE_STARTED.TXT del ADVANCE_STARTED.TXT
+call BURN_SUBTITLES.BAT
+pause
